@@ -1,0 +1,105 @@
+# Delta — Generative Engine Optimization Map
+
+> A clothing store specializing in pajamas and apparel for all ages — from babies and children to adults. The brand serves a wide demographic, suggesting a family-friendly identity with a focus on comfort, coziness, and everyday wear. The store likely carries a diverse range of styles and sizes to accommodate the full family.
+
+---
+
+## Pages
+
+### בית
+https://delta-bdbc5d89.zappy5.app
+גלו עולם של נוחות וסטייל לכל הגילאים עם קולקציות פיג&#39;מות וביגוד יומיומי של Delta. מתינוקות ועד מבוגרים, הלבישו את המשפחה כולה בבדים רכים ונעימים. בקרו עכשיו והתחילו לקנות חמימות!
+
+### קולקציות ונוחות
+https://delta-bdbc5d89.zappy5.app/collections-comfort
+חפשו את המבצעים החמים על קווי הנוחות האהובים שלנו. מבדים אווריריים ועד גזרות מחבקות, כל פריט בקולקציית Delta נועד להעניק לכם תחושת רוגע מושלמת בכל עונה. גלו את המגוון עוד היום!
+
+### אודות דלתא
+https://delta-bdbc5d89.zappy5.app/about
+מאחורי כל תפר רך עומד סיפור של משפחתיות ואהבה לנוחות. בואו להכיר את המסע של Delta, המותג שמלביש תינוקות, ילדים ומבוגרים בחום ובסטייל כבר שנים. הצטרפו למשפחה שלנו עכשיו!
+
+### צור קשר
+https://delta-bdbc5d89.zappy5.app/contact
+יש לכם שאלה על מידות, בדים או ההזמנה האחרונה? צוות Delta תמיד כאן כדי לעטוף אתכם בשירות אישי וחם. מלאו את הפרטים ונחזור אליכם במהירות עם כל התשובות שתצטרכו!
+
+### Products
+https://delta-bdbc5d89.zappy5.app/products
+המוצרים שלנו - Delta
+
+### Cart
+https://delta-bdbc5d89.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://delta-bdbc5d89.zappy5.app/checkout
+תשלום
+
+### Login
+https://delta-bdbc5d89.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://delta-bdbc5d89.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://delta-bdbc5d89.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://delta-bdbc5d89.zappy5.app/product/:slug
+פרטי המוצר - Delta
+
+### Category
+https://delta-bdbc5d89.zappy5.app/category/:slug
+מוצרים - Delta
+
+### תודה שפניתם אלינו
+https://delta-bdbc5d89.zappy5.app/thank-you
+Delta - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://delta-bdbc5d89.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://delta-bdbc5d89.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://delta-bdbc5d89.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Delta
+A clothing store specializing in pajamas and apparel for all ages — from babies and children to adults. The brand serves a wide demographic, suggesting a family-friendly identity with a focus on comfort, coziness, and everyday wear. The store likely carries a diverse range of styles and sizes to accommodate the full family.
+
+## Target Audience
+- כל הגילאים
+- משפחות עם ילדים
+- מתבגרים וצעירים
+- מחפשי נוחות
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://delta-bdbc5d89.zappy5.app/sitemap.xml
+- Robots: https://delta-bdbc5d89.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://delta-bdbc5d89.zappy5.app/llms-full.txt
+- Products (JSON): https://delta-bdbc5d89.zappy5.app/products.json
+- Products (Google Merchant RSS): https://delta-bdbc5d89.zappy5.app/product-feed.xml
