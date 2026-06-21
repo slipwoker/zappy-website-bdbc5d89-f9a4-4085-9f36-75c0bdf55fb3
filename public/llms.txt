@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://delta-bdbc5d89.zappy5.app
+https://example.com
 גלו עולם של נוחות וסטייל לכל הגילאים עם קולקציות פיג&#39;מות וביגוד יומיומי של Delta. מתינוקות ועד מבוגרים, הלבישו את המשפחה כולה בבדים רכים ונעימים. בקרו עכשיו והתחילו לקנות חמימות!
 
 ### קולקציות ונוחות
-https://delta-bdbc5d89.zappy5.app/collections-comfort
+https://example.com/collections-comfort
 חפשו את המבצעים החמים על קווי הנוחות האהובים שלנו. מבדים אווריריים ועד גזרות מחבקות, כל פריט בקולקציית Delta נועד להעניק לכם תחושת רוגע מושלמת בכל עונה. גלו את המגוון עוד היום!
 
 ### אודות דלתא
-https://delta-bdbc5d89.zappy5.app/about
+https://example.com/about
 מאחורי כל תפר רך עומד סיפור של משפחתיות ואהבה לנוחות. בואו להכיר את המסע של Delta, המותג שמלביש תינוקות, ילדים ומבוגרים בחום ובסטייל כבר שנים. הצטרפו למשפחה שלנו עכשיו!
 
 ### צור קשר
-https://delta-bdbc5d89.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מידות, בדים או ההזמנה האחרונה? צוות Delta תמיד כאן כדי לעטוף אתכם בשירות אישי וחם. מלאו את הפרטים ונחזור אליכם במהירות עם כל התשובות שתצטרכו!
 
 ### Products
-https://delta-bdbc5d89.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Delta
 
 ### Cart
-https://delta-bdbc5d89.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://delta-bdbc5d89.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://delta-bdbc5d89.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://delta-bdbc5d89.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://delta-bdbc5d89.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://delta-bdbc5d89.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Delta
 
 ### Category
-https://delta-bdbc5d89.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Delta
 
 ### תודה שפניתם אלינו
-https://delta-bdbc5d89.zappy5.app/thank-you
+https://example.com/thank-you
 Delta - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://delta-bdbc5d89.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://delta-bdbc5d89.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://delta-bdbc5d89.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://delta-bdbc5d89.zappy5.app/sitemap.xml
-- Robots: https://delta-bdbc5d89.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://delta-bdbc5d89.zappy5.app/llms-full.txt
-- Products (JSON): https://delta-bdbc5d89.zappy5.app/products.json
-- Products (Google Merchant RSS): https://delta-bdbc5d89.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
